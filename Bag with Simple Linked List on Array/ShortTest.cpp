@@ -32,13 +32,4 @@ void testAll() {
 		TElem e = it.getCurrent();
 		it.next();
 	}
-
-	Bag b1;
-	b1.add(5);
-	b1.add(1);
-	b1.add(10);
-	Bag b2;
-	b2.add(5);
-	b2.add(1);
-	Bag b3;
 }
